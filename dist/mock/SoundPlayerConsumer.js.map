@@ -1,0 +1,1 @@
+{"version":3,"file":"SoundPlayerConsumer.js","sourceRoot":"","sources":["../../src/mock/SoundPlayerConsumer.ts"],"names":[],"mappings":";;AAAA,+CAAwC;AAExC;IAEE;QACE,IAAI,CAAC,WAAW,GAAG,IAAI,qBAAW,EAAE,CAAC;IACvC,CAAC;IAED,iBAAiB;QACf,MAAM,iBAAiB,GAAG,UAAU,CAAC;QACrC,IAAI,CAAC,WAAW,CAAC,aAAa,CAAC,iBAAiB,CAAC,CAAC;IACpD,CAAC;CAEF;AAXD,sCAWC"}

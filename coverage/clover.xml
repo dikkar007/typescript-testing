@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1531664010641" clover="3.2.0">
+  <project timestamp="1531664010641" name="All files">
+    <metrics statements="49" coveredstatements="48" conditionals="6" coveredconditionals="6" methods="18" coveredmethods="16" elements="73" coveredelements="70" complexity="0" loc="49" ncloc="49" packages="5" files="7" classes="7">
+      <package name="src">
+        <metrics statements="22" coveredstatements="22" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
+        <file name="App.ts" path="/Users/shirishdikkar/Documents/typescript-testing/src/App.ts">
+          <metrics statements="22" coveredstatements="22" conditionals="0" coveredconditionals="0" methods="6" coveredmethods="6"/>
+          <line num="1" count="1" type="stmt"/>
+          <line num="3" count="1" type="stmt"/>
+          <line num="4" count="1" type="stmt"/>
+          <line num="10" count="1" type="stmt"/>
+          <line num="11" count="1" type="stmt"/>
+          <line num="13" count="1" type="stmt"/>
+          <line num="18" count="1" type="stmt"/>
+          <line num="19" count="1" type="stmt"/>
+          <line num="20" count="1" type="stmt"/>
+          <line num="22" count="1" type="stmt"/>
+          <line num="24" count="1" type="stmt"/>
+          <line num="25" count="1" type="stmt"/>
+          <line num="26" count="1" type="stmt"/>
+          <line num="28" count="1" type="stmt"/>
+          <line num="30" count="1" type="stmt"/>
+          <line num="34" count="2" type="stmt"/>
+          <line num="35" count="2" type="stmt"/>
+          <line num="36" count="2" type="stmt"/>
+          <line num="37" count="2" type="stmt"/>
+          <line num="38" count="2" type="stmt"/>
+          <line num="39" count="2" type="stmt"/>
+          <line num="43" count="1" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.api">
+        <metrics statements="10" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="4"/>
+        <file name="Http.ts" path="/Users/shirishdikkar/Documents/typescript-testing/src/api/Http.ts">
+          <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+          <line num="1" count="2" type="stmt"/>
+          <line num="7" count="1" type="stmt"/>
+          <line num="16" count="1" type="stmt"/>
+          <line num="17" count="1" type="stmt"/>
+          <line num="21" count="2" type="stmt"/>
+        </file>
+        <file name="Users.ts" path="/Users/shirishdikkar/Documents/typescript-testing/src/api/Users.ts">
+          <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+          <line num="1" count="2" type="stmt"/>
+          <line num="6" count="2" type="stmt"/>
+          <line num="10" count="2" type="stmt"/>
+          <line num="11" count="2" type="stmt"/>
+          <line num="14" count="2" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.mock">
+        <metrics statements="7" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="4" coveredmethods="2"/>
+        <file name="SoundPlayer.ts" path="/Users/shirishdikkar/Documents/typescript-testing/src/mock/SoundPlayer.ts">
+          <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="0"/>
+          <line num="1" count="2" type="stmt"/>
+          <line num="7" count="0" type="stmt"/>
+        </file>
+        <file name="SoundPlayerConsumer.ts" path="/Users/shirishdikkar/Documents/typescript-testing/src/mock/SoundPlayerConsumer.ts">
+          <metrics statements="5" coveredstatements="5" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+          <line num="1" count="2" type="stmt"/>
+          <line num="3" count="2" type="stmt"/>
+          <line num="6" count="3" type="stmt"/>
+          <line num="10" count="2" type="stmt"/>
+          <line num="11" count="2" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.simple">
+        <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+        <file name="sum.ts" path="/Users/shirishdikkar/Documents/typescript-testing/src/simple/sum.ts">
+          <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+          <line num="1" count="1" type="stmt"/>
+          <line num="3" count="4" type="stmt"/>
+        </file>
+      </package>
+      <package name="src.types">
+        <metrics statements="8" coveredstatements="8" conditionals="6" coveredconditionals="6" methods="2" coveredmethods="2"/>
+        <file name="Evaluate.ts" path="/Users/shirishdikkar/Documents/typescript-testing/src/types/Evaluate.ts">
+          <metrics statements="8" coveredstatements="8" conditionals="6" coveredconditionals="6" methods="2" coveredmethods="2"/>
+          <line num="8" count="13" type="stmt"/>
+          <line num="10" count="9" type="stmt"/>
+          <line num="13" count="4" type="stmt"/>
+          <line num="15" count="1" type="stmt"/>
+          <line num="17" count="1" type="stmt"/>
+          <line num="19" count="1" type="stmt"/>
+          <line num="21" count="1" type="stmt"/>
+          <line num="29" count="1" type="stmt"/>
+        </file>
+      </package>
+    </metrics>
+  </project>
+</coverage>
