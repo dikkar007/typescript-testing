@@ -32,7 +32,7 @@ cd client
 
 npm install
 
-npm test
+npm test 
 
 npm run build 
 
