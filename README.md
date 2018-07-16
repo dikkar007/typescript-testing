@@ -17,14 +17,14 @@
 ## 
 
 # **UI Unit Testing**
-![alt text](https://github.com/dikkar007/test/raw/master/ui.png)
-![alt text](https://github.com/dikkar007/test/raw/master/ui1.png)
+![alt text](https://github.com/dikkar007/typescript-testing/raw/master/ui.png)
+![alt text](https://github.com/dikkar007/typescript-testing/raw/master/ui1.png)
 
 # **Backend Unit Testing**
-![alt text](https://github.com/dikkar007/test/raw/master/backend.png)
+![alt text](https://github.com/dikkar007/typescript-testing/raw/master/backend.png)
 
 # **E2E Testing**
-![alt text](https://github.com/dikkar007/test/raw/master/e2e.png)
+![alt text](https://github.com/dikkar007/typescript-testing/raw/master/e2e.png)
 #
 
 # **npm cli commands**
